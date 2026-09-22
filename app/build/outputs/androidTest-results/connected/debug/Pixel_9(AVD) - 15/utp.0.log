@@ -1,0 +1,44 @@
+INFORMACIÓN: Constructing runner from config.
+INFORMACIÓN: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "org.universalworldtechnologyec.cedulamovil"
+    test_package: "org.universalworldtechnologyec.cedulamovil.test"
+    test_runner_class: "androidx.test.runner.AndroidJUnitRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/org.universalworldtechnologyec.cedulamovil/additional_test_output"
+    }
+    args_map {
+      key: "class"
+      value: "org.universalworldtechnologyec.cedulamovil.ScreenshotTest#tomarCapturas"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFORMACIÓN: Configuring AndroidTestApkInstallerPlugin: apks_to_install {
+  apk_paths: "/Users/alperalt/AndroidStudioProjects/ConsultaEC/app/build/intermediates/apk/debug/app-debug.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+apks_to_install {
+  apk_paths: "/Users/alperalt/AndroidStudioProjects/ConsultaEC/app/build/intermediates/apk/androidTest/debug/app-debug-androidTest.apk"
+  install_options {
+  }
+  uninstall_after_test: true
+}
+instrumentation_target_package_id: "org.universalworldtechnologyec.cedulamovil"
+
+INFORMACIÓN: No installables found in test fixture. Nothing to install.
+INFORMACIÓN: Installing [/Users/alperalt/AndroidStudioProjects/ConsultaEC/app/build/intermediates/apk/debug/app-debug.apk] on device emulator-5554.
+INFORMACIÓN: Installing [/Users/alperalt/AndroidStudioProjects/ConsultaEC/app/build/intermediates/apk/androidTest/debug/app-debug-androidTest.apk] on device emulator-5554.
+INFORMACIÓN: Start logcat streaming.
+INFORMACIÓN: Running Android Instrumentation driver.
+INFORMACIÓN: Copying files from device to host: /sdcard/Android/media/org.universalworldtechnologyec.cedulamovil/additional_test_output to /Users/alperalt/AndroidStudioProjects/ConsultaEC/app/build/outputs/connected_android_test_additional_output/debugAndroidTest/connected/Pixel_9(AVD) - 15
+INFORMACIÓN: Stop logcat streaming.
+INFORMACIÓN: Uninstalling org.universalworldtechnologyec.cedulamovil for device emulator-5554.
+INFORMACIÓN: Uninstalling org.universalworldtechnologyec.cedulamovil.test for device emulator-5554.
+INFORMACIÓN: Execute org.universalworldtechnologyec.cedulamovil.ScreenshotTest.tomarCapturas: PASSED

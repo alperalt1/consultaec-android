@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class org.universalworldtechnologyec.cedulamovil.ui.viewmodel.ValidarIdentidadViewModel

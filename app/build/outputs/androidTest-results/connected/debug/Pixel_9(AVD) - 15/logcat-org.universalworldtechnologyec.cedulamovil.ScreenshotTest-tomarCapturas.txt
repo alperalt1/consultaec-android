@@ -1,0 +1,173 @@
+09-12 23:21:23.294  8558  8576 I TestRunner: started: tomarCapturas(org.universalworldtechnologyec.cedulamovil.ScreenshotTest)
+09-12 23:21:23.299  8558  8576 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-12 23:21:23.319   564  1595 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@77abc516 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+09-12 23:21:23.377   415   415 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+09-12 23:21:23.377  1132  1132 W SplitSelectStateCtor: Missing session instanceIds
+09-12 23:21:23.377  1132  1132 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+09-12 23:21:23.386   430   508 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:23.395  1132  1132 I TopTaskTracker: onTaskMovedToFront: (moved taskInfo to front) taskId=234, baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=org.universalworldtechnologyec.cedulamovil/.MainActivity }
+09-12 23:21:23.424  8558  8558 D LifecycleMonitor: Lifecycle status change: org.universalworldtechnologyec.cedulamovil.MainActivity@d670198 in: PRE_ON_CREATE
+09-12 23:21:23.424  8558  8558 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-12 23:21:23.443  1132  1638 D EGL_emulation: app_time_stats: avg=2165.51ms min=2165.51ms max=2165.51ms count=1
+09-12 23:21:23.501  8558  8558 D LifecycleMonitor: Lifecycle status change: org.universalworldtechnologyec.cedulamovil.MainActivity@d670198 in: CREATED
+09-12 23:21:23.501  8558  8558 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=org.universalworldtechnologyec.cedulamovil.MainActivity@d670198
+09-12 23:21:23.503  8558  8558 D LifecycleMonitor: Lifecycle status change: org.universalworldtechnologyec.cedulamovil.MainActivity@d670198 in: STARTED
+09-12 23:21:23.503  8558  8558 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=org.universalworldtechnologyec.cedulamovil.MainActivity@d670198
+09-12 23:21:23.505  8558  8558 D LifecycleMonitor: Lifecycle status change: org.universalworldtechnologyec.cedulamovil.MainActivity@d670198 in: RESUMED
+09-12 23:21:23.505  8558  8558 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=org.universalworldtechnologyec.cedulamovil.MainActivity@d670198
+09-12 23:21:23.509  8558  8558 W HWUI    : Unknown dataspace 0
+09-12 23:21:23.514  1132  1638 D EGL_emulation: app_time_stats: avg=813.85ms min=2.95ms max=11219.24ms count=14
+09-12 23:21:23.606  8558  8562 I yec.cedulamovil: Compiler allocated 5250KB to compile void android.view.ViewRootImpl.performTraversals()
+09-12 23:21:23.648  8558  8558 W yec.cedulamovil: Accessing hidden method Landroid/os/SystemProperties;->addChangeCallback(Ljava/lang/Runnable;)V (unsupported, reflection, allowed)
+09-12 23:21:23.715  8558  8579 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+09-12 23:21:23.715  8558  8579 I EGL_emulation: Opening libGLESv2_emulation.so
+09-12 23:21:23.727   817  1016 D EGL_emulation: app_time_stats: avg=23658.79ms min=23658.79ms max=23658.79ms count=1
+09-12 23:21:23.742  8558  8579 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+09-12 23:21:23.742  8558  8579 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+09-12 23:21:23.770   159   159 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+09-12 23:21:23.771  8558  8579 I Gralloc4: mapper 4.x is not supported
+09-12 23:21:23.793  1132  1132 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+09-12 23:21:23.810  1132  1132 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+09-12 23:21:24.039   564   607 W ziparchive: Unable to open '/data/app/~~05pfySlyF80FawABo_PTsg==/org.universalworldtechnologyec.cedulamovil-ln3kNWFRXzhUUtWBR7IRwA==/base.dm': No such file or directory
+09-12 23:21:24.042   564   607 I ActivityTaskManager: Displayed org.universalworldtechnologyec.cedulamovil/.MainActivity for user 0: +725ms
+09-12 23:21:24.075   564   696 I ImeTracker: org.universalworldtechnologyec.cedulamovil:31ffc394: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+09-12 23:21:24.075   564   696 I ImeTracker: org.universalworldtechnologyec.cedulamovil:31ffc394: onCancelled at PHASE_SERVER_SHOULD_HIDE
+09-12 23:21:24.085  1033  1605 I FontLog : (REDACTED) Received query %s, URI %s
+09-12 23:21:24.085  1033  1605 I FontLog : (REDACTED) Query [%s] resolved to %s
+09-12 23:21:24.085  1354  1354 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2085
+09-12 23:21:24.087  1354  1354 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+09-12 23:21:24.089  1354  1354 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1346 onStartInput(EditorInfo{EditorInfo{packageName=org.universalworldtechnologyec.cedulamovil, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+09-12 23:21:24.094  1033  1605 I FontLog : (REDACTED) Fetch %s end status %s
+09-12 23:21:24.094  1354  1354 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+09-12 23:21:24.102  1033  1605 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+09-12 23:21:24.111  1033  1605 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+09-12 23:21:24.114  1132  1132 D BaseDepthController: setSurface:
+09-12 23:21:24.114  1132  1132 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+09-12 23:21:24.114  1132  1132 D BaseDepthController: 	mSurface: null
+09-12 23:21:24.115  1132  1132 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+09-12 23:21:24.116   430   508 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:24.118  1132  1132 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
+09-12 23:21:24.118  1132  1132 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:4)
+09-12 23:21:24.118  1132  1132 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:1)
+09-12 23:21:24.118  1132  1132 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:34)
+09-12 23:21:24.118  1132  1132 D StatsLog: LAUNCHER_ONSTOP
+09-12 23:21:24.121  1132  1132 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+09-12 23:21:24.121  1132  1827 D OneSearchSuggestProvider: Shut down the binder channel
+09-12 23:21:24.126  1132 24920 I IPCThreadState: oneway function results for code 2 on binder at 0xb4000071bed9ca90 will be dropped but finished with status UNKNOWN_TRANSACTION
+09-12 23:21:24.311   430   508 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:24.313   817   895 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@5f074c
+09-12 23:21:24.314   564  2245 W InputManager-JNI: Input channel object '2171527 Splash Screen org.universalworldtechnologyec.cedulamovil (client)' was disposed without first being removed with the input manager!
+09-12 23:21:26.680  2909  2909 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.potokens.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsApiService }
+09-12 23:21:26.743  7974  8460 I IPCThreadState: oneway function results for code 2 on binder at 0xb4000071bed9d750 will be dropped but finished with status UNKNOWN_TRANSACTION
+09-12 23:21:28.131  8558  8576 I UiAutomation: Initialized for user 0 on display 0
+09-12 23:21:28.147  1485  1497 I AiAiEcho: Settings changed for uri: content://settings/secure/accessibility_enabled
+09-12 23:21:28.149   564   564 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:28.150   564   564 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:28.150   564   564 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:28.150   564   564 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:28.150   564   564 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:28.150   564   564 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:28.156  1485  1752 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+09-12 23:21:28.157  1485  1752 I AiAiEcho: EchoTargets:
+09-12 23:21:28.157  1485  1752 I AiAiEcho: Filtered by AiAi flag check:
+09-12 23:21:28.157  1485  1752 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+09-12 23:21:28.157  1485  1752 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:  [CONTEXT ratelimit_period="10 SECONDS" ]
+09-12 23:21:28.157  1485  1752 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+09-12 23:21:28.157  1485  1752 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+09-12 23:21:28.157  1485  1752 I AiAiEcho: EchoTargets:
+09-12 23:21:28.157  1485  1752 I AiAiEcho: Filtered by AiAi flag check:
+09-12 23:21:28.157  1485  1752 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+09-12 23:21:28.157  1485  1752 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:  [CONTEXT ratelimit_period="10 SECONDS" ]
+09-12 23:21:28.157  1485  1752 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+09-12 23:21:28.158  1485  1752 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+09-12 23:21:28.158  1485  1752 I AiAiEcho: EchoTargets:
+09-12 23:21:28.158  1485  1752 I AiAiEcho: Filtered by AiAi flag check:
+09-12 23:21:28.158  1485  1752 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+09-12 23:21:28.158  1485  1752 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:  [CONTEXT ratelimit_period="10 SECONDS" ]
+09-12 23:21:28.158  1485  1752 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+09-12 23:21:28.158  1485  1752 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface lockscreen with targets# 0 (types=[])
+09-12 23:21:28.158  1485  1752 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface media_data_manager with targets# 0 (types=[])
+09-12 23:21:28.159  1485  1752 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+09-12 23:21:28.171   817   817 D SsMediaDataProvider: Forwarding Smartspace updates []
+09-12 23:21:28.171   817   817 W PageIndicator: Total number of pages invalid: 0. Assuming 1 page.
+09-12 23:21:28.173  1132  1132 D SsBaseTemplateCard: No text view can be set up
+09-12 23:21:28.174  1132  1132 D SsBaseTemplateCard: Passed-in item info is null
+09-12 23:21:28.174  1132  1132 D SsBaseTemplateCard: Passed-in item info is null
+09-12 23:21:28.174  1132  1132 D SsBaseTemplateCard: Passed-in item info is null
+09-12 23:21:28.174  1132  1132 I SsBaseTemplateCard: Secondary card pane is null
+09-12 23:21:28.243  1467  1764 W MediaProvider: isAppCloneUserPair for user 0: false
+09-12 23:21:28.244  1467  1764 W MediaProvider: isAppCloneUserPair for user 0: false
+09-12 23:21:28.281  1033  8344 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+09-12 23:21:28.284  1033  8529 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+09-12 23:21:28.462   564   650 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@79609db5 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+09-12 23:21:28.467   564   610 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@79609db5 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+09-12 23:21:28.469  1132  1132 I TopTaskTracker: onTaskMovedToFront: (moved taskInfo to front) taskId=235, baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=org.universalworldtechnologyec.cedulamovil.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }
+09-12 23:21:28.469  8558  8558 D LifecycleMonitor: Lifecycle status change: org.universalworldtechnologyec.cedulamovil.MainActivity@d670198 in: PAUSED
+09-12 23:21:28.469  8558  8558 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=org.universalworldtechnologyec.cedulamovil.MainActivity@d670198
+09-12 23:21:28.471   430   508 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:28.476   415   415 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+09-12 23:21:28.477   373   373 D Zygote  : Forked child process 8594
+09-12 23:21:28.488  8558  8596 D ProfileInstaller: Installing profile for org.universalworldtechnologyec.cedulamovil
+09-12 23:21:28.500  8594  8594 I edulamovil.test: Late-enabling -Xcheck:jni
+09-12 23:21:28.510   393   393 I RanchuHwc: logCompositionFallbackIfChanged: layer 627 CompositionType fallback from 3 to 1
+09-12 23:21:28.512   817  1016 D EGL_emulation: app_time_stats: avg=232.86ms min=1.26ms max=3866.29ms count=20
+09-12 23:21:28.518  8594  8594 I edulamovil.test: Using CollectorTypeCMC GC.
+09-12 23:21:28.524   417   437 I adbd    : jdwp connection from 8594
+09-12 23:21:28.526  8558  8579 D EGL_emulation: app_time_stats: avg=899.00ms min=10.18ms max=4329.33ms count=5
+09-12 23:21:28.529  8594  8594 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+09-12 23:21:28.551  8594  8594 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+09-12 23:21:28.556  8594  8594 D nativeloader: Configuring clns-7 for other apk /system/framework/android.test.mock.jar. target_sdk_version=36, uses_libraries=ALL, library_path=/data/app/~~DTD2WZFTYw9JlhQoJA29cg==/org.universalworldtechnologyec.cedulamovil.test-rGn-nba4sMB6_6bY1_1v7A==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/org.universalworldtechnologyec.cedulamovil.test
+09-12 23:21:28.557  8594  8594 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+09-12 23:21:28.560  8594  8594 D nativeloader: Configuring clns-8 for other apk /system/framework/android.test.runner.jar. target_sdk_version=36, uses_libraries=ALL, library_path=/data/app/~~DTD2WZFTYw9JlhQoJA29cg==/org.universalworldtechnologyec.cedulamovil.test-rGn-nba4sMB6_6bY1_1v7A==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/org.universalworldtechnologyec.cedulamovil.test
+09-12 23:21:28.562  8594  8594 W ziparchive: Unable to open '/data/app/~~DTD2WZFTYw9JlhQoJA29cg==/org.universalworldtechnologyec.cedulamovil.test-rGn-nba4sMB6_6bY1_1v7A==/base.dm': No such file or directory
+09-12 23:21:28.562  8594  8594 W ziparchive: Unable to open '/data/app/~~DTD2WZFTYw9JlhQoJA29cg==/org.universalworldtechnologyec.cedulamovil.test-rGn-nba4sMB6_6bY1_1v7A==/base.dm': No such file or directory
+09-12 23:21:28.591  8594  8594 D nativeloader: Configuring clns-9 for other apk /data/app/~~DTD2WZFTYw9JlhQoJA29cg==/org.universalworldtechnologyec.cedulamovil.test-rGn-nba4sMB6_6bY1_1v7A==/base.apk. target_sdk_version=36, uses_libraries=, library_path=/data/app/~~DTD2WZFTYw9JlhQoJA29cg==/org.universalworldtechnologyec.cedulamovil.test-rGn-nba4sMB6_6bY1_1v7A==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/org.universalworldtechnologyec.cedulamovil.test
+09-12 23:21:28.601  8594  8594 V GraphicsEnvironment: Currently set values for:
+09-12 23:21:28.601  8594  8594 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+09-12 23:21:28.601  8594  8594 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+09-12 23:21:28.601  8594  8594 V GraphicsEnvironment: Global.Settings values are invalid: number of packages: 0, number of values: 0
+09-12 23:21:28.601  8594  8594 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+09-12 23:21:28.636  8594  8594 W HWUI    : Unknown dataspace 0
+09-12 23:21:28.644  1132  1132 I TopTaskTracker: onTaskMovedToFront: (moved taskInfo to front) taskId=217, baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000100 cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity }
+09-12 23:21:28.650  8594  8613 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+09-12 23:21:28.650  8594  8613 I EGL_emulation: Opening libGLESv2_emulation.so
+09-12 23:21:28.654  8594  8613 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+09-12 23:21:28.655  8594  8613 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+09-12 23:21:28.660   159   159 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+09-12 23:21:28.660  8594  8613 I Gralloc4: mapper 4.x is not supported
+09-12 23:21:28.685  1132  1132 D StatsLog: LAUNCHER_ONRESUME
+09-12 23:21:28.690  1132  1827 D OneSearchSuggestProvider: Created the binder channel successfully for end point service =com.google.android.apps.search.googleapp.search.suggest.plugins.onesearch.server.OneSearchSuggestService , mChannel=i1{delegate=f{logId=129, target=directaddress:///AndroidComponentAddress%5BIntent%20%7B%20act=grpc.io.action.BIND%20cmp=com.google.android.googlequicksearchbox/com.google.android.apps.search.googleapp.search.suggest.plugins.onesearch.server.OneSearchSuggestService%20%7D%5D}} , mOneSearchConnection=l2.Z@482782d
+09-12 23:21:28.692   430   508 W IPCThreadState: Sending oneway calls to frozen process.
+09-12 23:21:28.693  1132  1132 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+09-12 23:21:28.694  1132  1177 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+09-12 23:21:28.699  1485  1752 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+09-12 23:21:28.699  1485  1752 I AiAiEcho: EchoTargets:
+09-12 23:21:28.699  1485  1752 I AiAiEcho: Filtered by AiAi flag check:
+09-12 23:21:28.699  1485  1752 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+09-12 23:21:28.699  1485  1752 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:  [CONTEXT ratelimit_period="10 SECONDS" ]
+09-12 23:21:28.699  1485  1752 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+09-12 23:21:28.700  7289  7289 I epbn    : (REDACTED) Created gRPC endpoint for service %s
+09-12 23:21:28.700  1485  1752 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+09-12 23:21:28.702  1132  1132 D BaseDepthController: setSurface:
+09-12 23:21:28.702  1132  1132 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+09-12 23:21:28.702  1132  1132 D BaseDepthController: 	mSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity)/@0xe885924
+09-12 23:21:28.708  1132  1132 D SsBaseTemplateCard: No text view can be set up
+09-12 23:21:28.708  1132  1132 D SsBaseTemplateCard: Passed-in item info is null
+09-12 23:21:28.708  1132  1132 D SsBaseTemplateCard: Passed-in item info is null
+09-12 23:21:28.708  1132  1132 D SsBaseTemplateCard: Passed-in item info is null
+09-12 23:21:28.708  1132  1132 I SsBaseTemplateCard: Secondary card pane is null
+09-12 23:21:28.732  1132  1132 D SearchTargetUtil: queryLength=0 size=0
+09-12 23:21:28.760  8558  8558 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+09-12 23:21:28.773  1132  1132 D StateManager: createAtomicAnimation - fromState: Background, toState: Normal, partial trace:
+09-12 23:21:28.773  1132  1132 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.prepareToAnimate(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:22)
+09-12 23:21:28.773  1132  1132 D StateManager: 	at com.android.quickstep.util.WorkspaceRevealAnim.<init>(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:11)
+09-12 23:21:28.773  1132  1132 D StateManager: 	at com.android.launcher3.QuickstepTransitionManager.createWallpaperOpenAnimations(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:735)
+09-12 23:21:28.785  8558  8558 D LifecycleMonitor: Lifecycle status change: org.universalworldtechnologyec.cedulamovil.MainActivity@d670198 in: STOPPED
+09-12 23:21:28.785  8558  8558 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=org.universalworldtechnologyec.cedulamovil.MainActivity@d670198
+09-12 23:21:28.788  1132  1638 D EGL_emulation: app_time_stats: avg=146.34ms min=11.55ms max=4693.62ms count=36
+09-12 23:21:28.804   564   696 I ImeTracker: com.google.android.apps.nexuslauncher:69f7ece0: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+09-12 23:21:28.805   564   696 I ImeTracker: com.google.android.apps.nexuslauncher:69f7ece0: onCancelled at PHASE_SERVER_SHOULD_HIDE
+09-12 23:21:28.805  8558  8558 D LifecycleMonitor: Lifecycle status change: org.universalworldtechnologyec.cedulamovil.MainActivity@d670198 in: DESTROYED
+09-12 23:21:28.805  8558  8558 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+09-12 23:21:28.806  8558  8558 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@ef5d3df
+09-12 23:21:28.807  8558  8576 I TestRunner: finished: tomarCapturas(org.universalworldtechnologyec.cedulamovil.ScreenshotTest)

@@ -1,0 +1,77 @@
+# proto-message: google.testing.platform.proto.api.core.TestSuiteResult
+# 2026-09-13T04:21:32.644488Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+  device {
+    id: "emulator-5554"
+    friendly_name: "primary"
+  }
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ScreenshotTest"
+    test_package: "org.universalworldtechnologyec.cedulamovil"
+    test_method: "tomarCapturas"
+    start_time {
+      seconds: 1789273286
+      nanos: 467000000
+    }
+    end_time {
+      seconds: 1789273291
+      nanos: 976000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/alperalt/AndroidStudioProjects/ConsultaEC/app/build/outputs/androidTest-results/connected/debug/Pixel_9(AVD) - 15/logcat-org.universalworldtechnologyec.cedulamovil.ScreenshotTest-tomarCapturas.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/alperalt/AndroidStudioProjects/ConsultaEC/app/build/outputs/androidTest-results/connected/debug/Pixel_9(AVD) - 15/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/alperalt/AndroidStudioProjects/ConsultaEC/app/build/outputs/androidTest-results/connected/debug/Pixel_9(AVD) - 15/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/alperalt/AndroidStudioProjects/ConsultaEC/app/build/outputs/androidTest-results/connected/debug/Pixel_9(AVD) - 15/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/alperalt/AndroidStudioProjects/ConsultaEC/app/build/outputs/androidTest-results/connected/debug/Pixel_9(AVD) - 15/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
